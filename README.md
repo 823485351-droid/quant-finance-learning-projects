@@ -1,5 +1,3 @@
-# quant-finance-learning-projects
-Quantitative finance projects in option pricing and machine learning
 # Quantitative Finance Learning Projects
 
 This repository contains two independent quantitative finance projects developed for learning and portfolio demonstration purposes.
