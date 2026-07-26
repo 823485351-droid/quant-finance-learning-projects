@@ -90,9 +90,11 @@ market-direction-blending-ensemble/
 │   ├── final_test_candidate_roc_curves.png
 │   ├── final_test_auc_bootstrap_intervals.png
 │   ├── final_test_locked_strategy_wealth.png
-│   └── final_test_excess_return_bootstrap_intervals.png
+│   ├── final_test_excess_return_bootstrap_intervals.png
+│   └── ...
 └── tables/
-    └── selected_summary_outputs.csv
+    ├── selected_summary_outputs.csv
+    └── ...
 ```
 
 Raw and processed datasets, fitted model binaries, logs, temporary notebook files, and submission-specific documents are intentionally excluded from the public repository.
