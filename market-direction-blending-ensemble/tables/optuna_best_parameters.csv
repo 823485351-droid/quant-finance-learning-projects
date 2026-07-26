@@ -1,0 +1,29 @@
+Model,Parameter,Selected Value
+Elastic-Net Logistic,class_weight,none
+Elastic-Net Logistic,correlation_threshold,0.91
+Elastic-Net Logistic,C,0.0072746531356694235
+Elastic-Net Logistic,l1_ratio,0.3042422429595377
+Elastic-Net Logistic,tolerance,0.00011207606211860574
+RBF SVM,class_weight,balanced
+RBF SVM,correlation_threshold,0.9400000000000001
+RBF SVM,C,83.58822122816849
+RBF SVM,gamma,0.09283429522725316
+RBF SVM,shrinking,True
+RBF SVM,tolerance,0.0027243657086126758
+Random Forest,class_weight,balanced_subsample
+Random Forest,max_depth,16
+Random Forest,max_features,0.70
+Random Forest,n_estimators,500
+Random Forest,min_samples_split,2
+Random Forest,min_samples_leaf,4
+Random Forest,max_samples,0.7
+XGBoost,n_estimators,900
+XGBoost,learning_rate,0.07753450451644274
+XGBoost,max_depth,4
+XGBoost,min_child_weight,19.833301756567327
+XGBoost,subsample,0.8
+XGBoost,colsample_bytree,0.9
+XGBoost,gamma,1.6730925074882017
+XGBoost,reg_alpha,3.85450957553213e-05
+XGBoost,reg_lambda,0.12134478086528085
+XGBoost,scale_pos_weight,1.35

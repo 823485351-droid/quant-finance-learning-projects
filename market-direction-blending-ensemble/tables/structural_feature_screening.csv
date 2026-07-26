@@ -1,0 +1,5 @@
+Feature,Decision,Reason
+RET_1D,Remove,Exact sum of OVERNIGHT_GAP and INTRADAY_RETURN.
+RET_2D,Remove,Exact combination of RET_1D and RET_LAG_1.
+RET_3D,Remove,"Exact combination of RET_1D, RET_LAG_1, and RET_LAG_2."
+WILLIAMS_R_14,Remove,Affine transformation of STOCHASTIC_K_14.

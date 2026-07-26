@@ -1,0 +1,9 @@
+,Feature-Engineering Quality Audit
+Candidate features,68
+Labelled observations,3017
+Rows with at least one missing feature,0
+Total missing feature cells,0
+Non-finite non-missing cells,0
+Constant features in base training,0
+First feature observation,2014-01-02 00:00:00
+Last feature observation,2025-12-30 00:00:00

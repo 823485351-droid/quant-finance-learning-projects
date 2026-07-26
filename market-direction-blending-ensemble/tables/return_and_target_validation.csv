@@ -1,0 +1,11 @@
+,Return and Target Validation
+Rows before removing unavailable targets,3018
+Rows with unavailable forward targets,1
+Rows retained for modelling,3017
+First modelling observation,2014-01-02 00:00:00
+Last labelled observation,2025-12-30 00:00:00
+Maximum return-identity error,6.938893903907228e-18
+Missing contemporaneous returns,0
+Missing forward returns,0
+Invalid target values,0
+Non-finite return observations,0

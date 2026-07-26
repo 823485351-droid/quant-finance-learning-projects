@@ -1,0 +1,12 @@
+,Raw Data Quality Summary
+Number of rows,3520
+Number of columns,9
+First observation,2012-01-03 00:00:00
+Last observation,2025-12-31 00:00:00
+Index is chronological,True
+Duplicate dates remaining,0
+Total missing cells,0
+Rows with non-positive prices,0
+Rows with negative volume,0
+Dividend event rows,56
+Stock-split event rows,0

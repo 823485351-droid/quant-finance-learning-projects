@@ -1,0 +1,7 @@
+,Final-Test Probability Benchmarks
+Final-test observations,501.0
+Final-test positive rate,0.5808383233532934
+Random-ranking ROC-AUC reference,0.5
+Average-precision reference,0.5808383233532934
+Climatological Brier score,0.2434651654774284
+Climatological log loss,0.6800199689539811

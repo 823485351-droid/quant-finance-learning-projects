@@ -1,0 +1,6 @@
+,Reference Correlation Filter
+Input features,64
+Retained features,54
+Removed features,10
+Correlation threshold,0.95
+Correlation method,pearson

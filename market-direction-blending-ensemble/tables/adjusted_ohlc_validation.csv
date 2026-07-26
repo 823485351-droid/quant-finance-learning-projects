@@ -1,0 +1,10 @@
+,Adjusted OHLC Validation
+Number of observations,3520.0
+Maximum close reconstruction error,2.842170943040401e-14
+Mean close reconstruction error,2.7049070054503816e-16
+High-price ordering violations,0.0
+Low-price ordering violations,0.0
+Rows with non-finite adjusted prices,0.0
+Rows with non-positive adjusted prices,0.0
+Minimum adjustment factor,0.7769173388795259
+Maximum adjustment factor,0.9947138456300681

@@ -1,0 +1,69 @@
+Feature,Feature Group
+RET_1D,Return and Reversal
+RET_LAG_1,Return and Reversal
+RET_LAG_2,Return and Reversal
+RET_LAG_3,Return and Reversal
+RET_LAG_5,Return and Reversal
+RET_LAG_10,Return and Reversal
+RET_LAG_20,Return and Reversal
+RET_2D,Return and Reversal
+RET_3D,Return and Reversal
+RET_5D,Return and Reversal
+RET_10D,Return and Reversal
+RET_20D,Return and Reversal
+RET_63D,Return and Reversal
+INTRADAY_RETURN,Intraday Structure
+OVERNIGHT_GAP,Intraday Structure
+LOG_HIGH_LOW_RANGE,Intraday Structure
+CLOSE_LOCATION_VALUE,Intraday Structure
+UPPER_SHADOW_RATIO,Intraday Structure
+LOWER_SHADOW_RATIO,Intraday Structure
+CLOSE_TO_SMA_5,Trend
+CLOSE_TO_SMA_10,Trend
+CLOSE_TO_SMA_20,Trend
+CLOSE_TO_SMA_50,Trend
+CLOSE_TO_SMA_100,Trend
+SMA_5_TO_20,Trend
+SMA_10_TO_50,Trend
+SMA_20_TO_100,Trend
+EMA_12_TO_26,Trend
+MACD_NORMALISED,Trend
+MACD_SIGNAL_NORMALISED,Trend
+LOG_PRICE_SLOPE_20,Trend
+LOG_PRICE_SLOPE_63,Trend
+RSI_14,Momentum
+STOCHASTIC_K_14,Momentum
+STOCHASTIC_D_3,Momentum
+WILLIAMS_R_14,Momentum
+CCI_20,Momentum
+VOLATILITY_5,Volatility
+VOLATILITY_10,Volatility
+VOLATILITY_21,Volatility
+VOLATILITY_63,Volatility
+DOWNSIDE_VOLATILITY_21,Volatility
+DOWNSIDE_VOLATILITY_63,Volatility
+PARKINSON_VOLATILITY_10,Volatility
+PARKINSON_VOLATILITY_21,Volatility
+GARMAN_KLASS_VOLATILITY_10,Volatility
+GARMAN_KLASS_VOLATILITY_21,Volatility
+ATR_14_NORMALISED,Volatility
+VOLATILITY_RATIO_5_21,Volatility
+VOLATILITY_RATIO_21_63,Volatility
+RETURN_SKEWNESS_21,Volatility
+RETURN_KURTOSIS_21,Volatility
+RETURN_SKEWNESS_63,Volatility
+RETURN_KURTOSIS_63,Volatility
+LOG_VOLUME_CHANGE_1,Volume and Liquidity
+LOG_VOLUME_CHANGE_5,Volume and Liquidity
+VOLUME_RATIO_5,Volume and Liquidity
+VOLUME_RATIO_20,Volume and Liquidity
+VOLUME_RATIO_60,Volume and Liquidity
+VOLUME_Z_20,Volume and Liquidity
+VOLUME_Z_60,Volume and Liquidity
+OBV_CHANGE_20_NORMALISED,Volume and Liquidity
+RETURN_VOLUME_INTERACTION,Volume and Liquidity
+AMIHUD_ILLIQUIDITY_20,Volume and Liquidity
+DAY_OF_WEEK_SIN,Calendar
+DAY_OF_WEEK_COS,Calendar
+MONTH_SIN,Calendar
+MONTH_COS,Calendar

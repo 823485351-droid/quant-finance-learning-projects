@@ -1,0 +1,29 @@
+Model,Parameter,Importance
+Elastic-Net Logistic,C,0.3662484122947662
+Elastic-Net Logistic,l1_ratio,0.301939124695816
+Elastic-Net Logistic,correlation_threshold,0.2138014371821631
+Elastic-Net Logistic,tolerance,0.08000295594825091
+Elastic-Net Logistic,class_weight,0.03800806987900387
+RBF SVM,gamma,0.6619664993108355
+RBF SVM,C,0.14146782714113088
+RBF SVM,shrinking,0.10978785698741425
+RBF SVM,tolerance,0.04424476060760931
+RBF SVM,correlation_threshold,0.04115342139950396
+RBF SVM,class_weight,0.001379634553506166
+Random Forest,max_depth,0.28015505900310705
+Random Forest,max_features,0.27099815345900935
+Random Forest,min_samples_split,0.1840147677762554
+Random Forest,class_weight,0.08061604107959716
+Random Forest,max_samples,0.07592119855943828
+Random Forest,n_estimators,0.07005754579786687
+Random Forest,min_samples_leaf,0.038237234324725915
+XGBoost,min_child_weight,0.4649690408997805
+XGBoost,gamma,0.2561649475460675
+XGBoost,n_estimators,0.18855985196553893
+XGBoost,scale_pos_weight,0.024864272176786845
+XGBoost,subsample,0.02078129094813738
+XGBoost,reg_alpha,0.015847127542238357
+XGBoost,learning_rate,0.012406018438890241
+XGBoost,colsample_bytree,0.010104550900345038
+XGBoost,max_depth,0.003383442601696835
+XGBoost,reg_lambda,0.0029194569805184112

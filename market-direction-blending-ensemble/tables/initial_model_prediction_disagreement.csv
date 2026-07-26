@@ -1,0 +1,5 @@
+,Elastic-Net Logistic,Calibrated RBF SVM,Random Forest,XGBoost
+Elastic-Net Logistic,0.0,0.5968,0.3752,0.3976
+Calibrated RBF SVM,0.5968,0.0,0.3592,0.4104
+Random Forest,0.3752,0.3592,0.0,0.2016
+XGBoost,0.3976,0.4104,0.2016,0.0

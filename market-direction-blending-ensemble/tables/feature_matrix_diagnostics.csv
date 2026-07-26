@@ -1,0 +1,3 @@
+,Observations,Features,Numerical rank,Rank deficiency,Largest singular value,Smallest singular value,Condition number
+Full Candidate Matrix,2015.0,68.0,64.0,4.0,209.28348648847694,1.3418663398667114e-14,1.5596448041856778e+16
+After Structural Screening,2015.0,64.0,64.0,0.0,205.8794013445756,0.23067913074261487,892.4925314301184

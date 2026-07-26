@@ -1,0 +1,15 @@
+,Development-Sample Distribution Shift
+Base Mean,0.0005430026570181378
+Blending Mean,6.370038577690602e-05
+Mean Difference,-0.0004793022712412318
+Cohen's d,-0.04326586704486687
+Base Daily Volatility,0.010753679291321872
+Blending Daily Volatility,0.012298370389031029
+Volatility Ratio,1.143643031920778
+Welch Statistic,0.7996300144128284
+Welch p-value,0.42419572669573546
+Brown-Forsythe Statistic,37.38758477715347
+Brown-Forsythe p-value,1.119403517640365e-09
+Kolmogorov-Smirnov Statistic,0.1264726130864821
+Kolmogorov-Smirnov p-value,4.668896138537917e-06
+Wasserstein Distance,0.0030115798405092667

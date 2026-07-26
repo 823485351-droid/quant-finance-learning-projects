@@ -1,0 +1,3 @@
+Candidate,Role,Final ROC-AUC,ROC-AUC CI Lower,ROC-AUC CI Upper,Balanced Accuracy,Predicted Positive Rate,Annualised Return,Sharpe Ratio,Exposure Rate,Probability of Beating Buy-and-Hold,Evidence Assessment
+Logistic Blending: Three Models,Primary Locked Ensemble,0.48874161348388157,0.44225911723275996,0.5325016760796463,0.5063573883161512,0.9740518962075848,0.21320883673353763,1.2684033722586674,0.9740518962075848,0.418,No reliable incremental forecasting edge
+Buy-and-Hold Benchmark,Passive Economic Benchmark,,,,,,0.21702068391335128,1.2807377986505373,1.0,,Passive market benchmark

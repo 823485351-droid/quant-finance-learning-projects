@@ -1,0 +1,69 @@
+Feature,Feature Group,Structural_Status,Structural_Reason
+RET_1D,Return and Reversal,Removed,Exact sum of OVERNIGHT_GAP and INTRADAY_RETURN.
+RET_LAG_1,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_LAG_2,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_LAG_3,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_LAG_5,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_LAG_10,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_LAG_20,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_2D,Return and Reversal,Removed,Exact combination of RET_1D and RET_LAG_1.
+RET_3D,Return and Reversal,Removed,"Exact combination of RET_1D, RET_LAG_1, and RET_LAG_2."
+RET_5D,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_10D,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_20D,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+RET_63D,Return and Reversal,Retained,No exact pre-registered structural redundancy.
+INTRADAY_RETURN,Intraday Structure,Retained,No exact pre-registered structural redundancy.
+OVERNIGHT_GAP,Intraday Structure,Retained,No exact pre-registered structural redundancy.
+LOG_HIGH_LOW_RANGE,Intraday Structure,Retained,No exact pre-registered structural redundancy.
+CLOSE_LOCATION_VALUE,Intraday Structure,Retained,No exact pre-registered structural redundancy.
+UPPER_SHADOW_RATIO,Intraday Structure,Retained,No exact pre-registered structural redundancy.
+LOWER_SHADOW_RATIO,Intraday Structure,Retained,No exact pre-registered structural redundancy.
+CLOSE_TO_SMA_5,Trend,Retained,No exact pre-registered structural redundancy.
+CLOSE_TO_SMA_10,Trend,Retained,No exact pre-registered structural redundancy.
+CLOSE_TO_SMA_20,Trend,Retained,No exact pre-registered structural redundancy.
+CLOSE_TO_SMA_50,Trend,Retained,No exact pre-registered structural redundancy.
+CLOSE_TO_SMA_100,Trend,Retained,No exact pre-registered structural redundancy.
+SMA_5_TO_20,Trend,Retained,No exact pre-registered structural redundancy.
+SMA_10_TO_50,Trend,Retained,No exact pre-registered structural redundancy.
+SMA_20_TO_100,Trend,Retained,No exact pre-registered structural redundancy.
+EMA_12_TO_26,Trend,Retained,No exact pre-registered structural redundancy.
+MACD_NORMALISED,Trend,Retained,No exact pre-registered structural redundancy.
+MACD_SIGNAL_NORMALISED,Trend,Retained,No exact pre-registered structural redundancy.
+LOG_PRICE_SLOPE_20,Trend,Retained,No exact pre-registered structural redundancy.
+LOG_PRICE_SLOPE_63,Trend,Retained,No exact pre-registered structural redundancy.
+RSI_14,Momentum,Retained,No exact pre-registered structural redundancy.
+STOCHASTIC_K_14,Momentum,Retained,No exact pre-registered structural redundancy.
+STOCHASTIC_D_3,Momentum,Retained,No exact pre-registered structural redundancy.
+WILLIAMS_R_14,Momentum,Removed,Affine transformation of STOCHASTIC_K_14.
+CCI_20,Momentum,Retained,No exact pre-registered structural redundancy.
+VOLATILITY_5,Volatility,Retained,No exact pre-registered structural redundancy.
+VOLATILITY_10,Volatility,Retained,No exact pre-registered structural redundancy.
+VOLATILITY_21,Volatility,Retained,No exact pre-registered structural redundancy.
+VOLATILITY_63,Volatility,Retained,No exact pre-registered structural redundancy.
+DOWNSIDE_VOLATILITY_21,Volatility,Retained,No exact pre-registered structural redundancy.
+DOWNSIDE_VOLATILITY_63,Volatility,Retained,No exact pre-registered structural redundancy.
+PARKINSON_VOLATILITY_10,Volatility,Retained,No exact pre-registered structural redundancy.
+PARKINSON_VOLATILITY_21,Volatility,Retained,No exact pre-registered structural redundancy.
+GARMAN_KLASS_VOLATILITY_10,Volatility,Retained,No exact pre-registered structural redundancy.
+GARMAN_KLASS_VOLATILITY_21,Volatility,Retained,No exact pre-registered structural redundancy.
+ATR_14_NORMALISED,Volatility,Retained,No exact pre-registered structural redundancy.
+VOLATILITY_RATIO_5_21,Volatility,Retained,No exact pre-registered structural redundancy.
+VOLATILITY_RATIO_21_63,Volatility,Retained,No exact pre-registered structural redundancy.
+RETURN_SKEWNESS_21,Volatility,Retained,No exact pre-registered structural redundancy.
+RETURN_KURTOSIS_21,Volatility,Retained,No exact pre-registered structural redundancy.
+RETURN_SKEWNESS_63,Volatility,Retained,No exact pre-registered structural redundancy.
+RETURN_KURTOSIS_63,Volatility,Retained,No exact pre-registered structural redundancy.
+LOG_VOLUME_CHANGE_1,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+LOG_VOLUME_CHANGE_5,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+VOLUME_RATIO_5,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+VOLUME_RATIO_20,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+VOLUME_RATIO_60,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+VOLUME_Z_20,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+VOLUME_Z_60,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+OBV_CHANGE_20_NORMALISED,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+RETURN_VOLUME_INTERACTION,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+AMIHUD_ILLIQUIDITY_20,Volume and Liquidity,Retained,No exact pre-registered structural redundancy.
+DAY_OF_WEEK_SIN,Calendar,Retained,No exact pre-registered structural redundancy.
+DAY_OF_WEEK_COS,Calendar,Retained,No exact pre-registered structural redundancy.
+MONTH_SIN,Calendar,Retained,No exact pre-registered structural redundancy.
+MONTH_COS,Calendar,Retained,No exact pre-registered structural redundancy.

@@ -1,0 +1,9 @@
+,Blending Sample Design
+Base-training observations,2015
+Blending observations,501
+Number of input features,64
+Base-training end date,2021-12-31 00:00:00
+Blending start date,2022-01-03 00:00:00
+Blending end date,2023-12-29 00:00:00
+Blending positive-class rate,0.49500998003992014
+Final-test labels accessed,False
