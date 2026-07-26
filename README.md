@@ -1,6 +1,6 @@
 # Quantitative Finance Learning Projects
 
-This repository contains two independent quantitative finance projects developed for learning and portfolio demonstration purposes.
+This repository contains three independent quantitative-finance projects developed for learning, empirical research, and portfolio demonstration.
 
 ## Project 1: Monte Carlo Option Pricing
 
