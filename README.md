@@ -27,4 +27,4 @@ in financial machine learning.
 
 ## Disclaimer
 
-This repository contains independent implementations for learning and portfolio demonstration purposes. It does not include proprietary exam questions, official solutions, lecture slides, or restricted datasets.
+This repository contains independent implementations for learning and portfolio demonstration purposes. 
